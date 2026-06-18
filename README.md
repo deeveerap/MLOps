@@ -2,7 +2,7 @@
 
 
 
-Day 4 
+****Day 4 ****
 # fraud-detection Makefile
 .PHONY: setup data train test clean all
 
@@ -26,4 +26,6 @@ clean:
 
 
 all: setup data train test
+
+****Day 5****
 
